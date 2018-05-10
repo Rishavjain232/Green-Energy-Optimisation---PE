@@ -1,0 +1,660 @@
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f75e98a5900>
+Test MSE: 13810.078, RMSE: 117.516
+1
+<built-in method now of type object at 0x7f21a1af4900>
+Test MSE: 100165.385, RMSE: 316.489
+2
+<built-in method now of type object at 0x7fc7747a0900>
+Test MSE: 54091.578, RMSE: 232.576
+3
+<built-in method now of type object at 0x7f87c85ac900>
+Test MSE: 39522.645, RMSE: 198.803
+4
+***************Load Prediction***************
+Test MSE: 0.010, RMSE: 0.102
+1
+Test MSE: 0.010, RMSE: 0.102
+2
+Test MSE: 0.005, RMSE: 0.072
+3
+Test MSE: 0.005, RMSE: 0.072
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fb81dc2e900>
+Test MSE: 34881.063, RMSE: 186.765
+1
+<built-in method now of type object at 0x7f6dc97c5900>
+Test MSE: 98662.947, RMSE: 314.107
+2
+<built-in method now of type object at 0x7f42181f6900>
+Test MSE: 56837.486, RMSE: 238.406
+3
+<built-in method now of type object at 0x7fc19d6d4900>
+Test MSE: 36256.111, RMSE: 190.410
+4
+***************Load Prediction***************
+Test MSE: 0.045, RMSE: 0.211
+1
+Test MSE: 0.045, RMSE: 0.211
+2
+Test MSE: 0.017, RMSE: 0.129
+3
+Test MSE: 0.017, RMSE: 0.130
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f0461052900>
+Test MSE: 37789.147, RMSE: 194.394
+1
+<built-in method now of type object at 0x7fc65093d900>
+Test MSE: 26212.449, RMSE: 161.903
+2
+<built-in method now of type object at 0x7eff942e5900>
+Test MSE: 12994.814, RMSE: 113.995
+3
+<built-in method now of type object at 0x7fae2b31f900>
+Test MSE: 37153.451, RMSE: 192.752
+4
+***************Load Prediction***************
+Test MSE: 0.072, RMSE: 0.268
+1
+Test MSE: 0.072, RMSE: 0.268
+2
+Test MSE: 0.007, RMSE: 0.086
+3
+Test MSE: 0.017, RMSE: 0.130
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f6aa52e6900>
+Test MSE: 20510.355, RMSE: 143.214
+1
+<built-in method now of type object at 0x7f5747c46900>
+Test MSE: 31108.738, RMSE: 176.377
+2
+<built-in method now of type object at 0x7eff524f0900>
+Test MSE: 5873.270, RMSE: 76.637
+3
+<built-in method now of type object at 0x7fc0c7aa0900>
+Test MSE: 27992.326, RMSE: 167.309
+4
+***************Load Prediction***************
+Test MSE: 0.048, RMSE: 0.220
+1
+Test MSE: 0.048, RMSE: 0.220
+2
+Test MSE: 0.009, RMSE: 0.096
+3
+Test MSE: 0.010, RMSE: 0.098
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f07443e6900>
+Test MSE: 7561.304, RMSE: 86.956
+1
+<built-in method now of type object at 0x7fa95307c900>
+Test MSE: 30306.642, RMSE: 174.088
+2
+<built-in method now of type object at 0x7fb9a43f7900>
+Test MSE: 21509.127, RMSE: 146.660
+3
+<built-in method now of type object at 0x7fdb34355900>
+Test MSE: 58.737, RMSE: 7.664
+4
+***************Load Prediction***************
+Test MSE: 0.026, RMSE: 0.162
+1
+Test MSE: 0.026, RMSE: 0.162
+2
+Test MSE: 0.008, RMSE: 0.090
+3
+Test MSE: 0.004, RMSE: 0.064
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f9e6c5db900>
+Test MSE: 50528.172, RMSE: 224.785
+1
+<built-in method now of type object at 0x7fe78e213900>
+Test MSE: 48027.161, RMSE: 219.151
+2
+<built-in method now of type object at 0x7f731d6f4900>
+Test MSE: 56984.248, RMSE: 238.714
+3
+<built-in method now of type object at 0x7fd34f009900>
+Test MSE: 9857.899, RMSE: 99.287
+4
+***************Load Prediction***************
+Test MSE: 0.012, RMSE: 0.111
+1
+Test MSE: 0.012, RMSE: 0.111
+2
+Test MSE: 0.006, RMSE: 0.080
+3
+Test MSE: 0.008, RMSE: 0.088
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f31b0545900>
+Test MSE: 124227.095, RMSE: 352.459
+1
+<built-in method now of type object at 0x7fbebefe2900>
+Test MSE: 19554.043, RMSE: 139.836
+2
+<built-in method now of type object at 0x7f21e97c1900>
+Test MSE: 53395.054, RMSE: 231.074
+3
+<built-in method now of type object at 0x7f0f408e3900>
+Test MSE: 56299.856, RMSE: 237.276
+4
+***************Load Prediction***************
+Test MSE: 0.008, RMSE: 0.091
+1
+Test MSE: 0.008, RMSE: 0.091
+2
+Test MSE: 0.005, RMSE: 0.071
+3
+Test MSE: 0.006, RMSE: 0.079
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fd9e5340900>
+Test MSE: 122171.620, RMSE: 349.531
+1
+<built-in method now of type object at 0x7efd292b0900>
+Test MSE: 55012.559, RMSE: 234.548
+2
+<built-in method now of type object at 0x7fc3661c6900>
+Test MSE: 24360.954, RMSE: 156.080
+3
+<built-in method now of type object at 0x7f6fc9ffe900>
+Test MSE: 50249.533, RMSE: 224.164
+4
+***************Load Prediction***************
+Test MSE: 0.011, RMSE: 0.107
+1
+Test MSE: 0.011, RMSE: 0.107
+2
+Test MSE: 0.005, RMSE: 0.068
+3
+Test MSE: 0.005, RMSE: 0.072
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f55c3930900>
+Test MSE: 60314.654, RMSE: 245.590
+1
+<built-in method now of type object at 0x7faa4d6ff900>
+Test MSE: 52965.967, RMSE: 230.143
+2
+<built-in method now of type object at 0x7f56c221b900>
+Test MSE: 59891.224, RMSE: 244.727
+3
+<built-in method now of type object at 0x7f2235668900>
+Test MSE: 33791.231, RMSE: 183.824
+4
+***************Load Prediction***************
+Test MSE: 0.009, RMSE: 0.093
+1
+Test MSE: 0.009, RMSE: 0.093
+2
+Test MSE: 0.018, RMSE: 0.135
+3
+Test MSE: 0.021, RMSE: 0.146
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f2513a35900>
+Test MSE: 59773.529, RMSE: 244.486
+1
+<built-in method now of type object at 0x7fd1a4ee6900>
+Test MSE: 37382.955, RMSE: 193.347
+2
+<built-in method now of type object at 0x7f8be4fe7900>
+Test MSE: 59495.192, RMSE: 243.916
+3
+<built-in method now of type object at 0x7fa4d845a900>
+Test MSE: 75358.971, RMSE: 274.516
+4
+***************Load Prediction***************
+Test MSE: 0.039, RMSE: 0.199
+1
+Test MSE: 0.039, RMSE: 0.199
+2
+Test MSE: 0.465, RMSE: 0.682
+3
+Test MSE: 0.021, RMSE: 0.143
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fb0583a3900>
+Test MSE: 47129.042, RMSE: 217.092
+1
+<built-in method now of type object at 0x7fa2eef13900>
+Test MSE: 37744.514, RMSE: 194.279
+2
+<built-in method now of type object at 0x7fbc708d8900>
+Test MSE: 51987.516, RMSE: 228.008
+3
+<built-in method now of type object at 0x7fd128b14900>
+Test MSE: 112780.403, RMSE: 335.828
+4
+***************Load Prediction***************
+Test MSE: 0.045, RMSE: 0.213
+1
+Test MSE: 0.045, RMSE: 0.213
+2
+Test MSE: 0.387, RMSE: 0.622
+3
+Test MSE: 0.022, RMSE: 0.149
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f8e38c56900>
+Test MSE: 28980.851, RMSE: 170.238
+1
+<built-in method now of type object at 0x7f57d531e900>
+Test MSE: 75729.208, RMSE: 275.189
+2
+<built-in method now of type object at 0x7f8df313c900>
+Test MSE: 80253.870, RMSE: 283.291
+3
+<built-in method now of type object at 0x7f3c94e8a900>
+Test MSE: 40277.741, RMSE: 200.693
+4
+***************Load Prediction***************
+Test MSE: 0.018, RMSE: 0.133
+1
+Test MSE: 0.018, RMSE: 0.133
+2
+Test MSE: 0.022, RMSE: 0.148
+3
+Test MSE: 0.023, RMSE: 0.151
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fc907e2f900>
+Test MSE: 21545.866, RMSE: 146.785
+1
+<built-in method now of type object at 0x7efcf298c900>
+Test MSE: 57056.716, RMSE: 238.865
+2
+<built-in method now of type object at 0x7fe03a31b900>
+Test MSE: 48998.664, RMSE: 221.356
+3
+<built-in method now of type object at 0x7fe4397b9900>
+Test MSE: 6542.570, RMSE: 80.886
+4
+***************Load Prediction***************
+Test MSE: 0.010, RMSE: 0.101
+1
+Test MSE: 0.010, RMSE: 0.101
+2
+Test MSE: 0.007, RMSE: 0.084
+3
+Test MSE: 0.006, RMSE: 0.078
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fe09a7ab900>
+Test MSE: 26428.301, RMSE: 162.568
+1
+<built-in method now of type object at 0x7fe1992d3900>
+Test MSE: 40018.531, RMSE: 200.046
+2
+<built-in method now of type object at 0x7f3acc973900>
+Test MSE: 38088.792, RMSE: 195.164
+3
+<built-in method now of type object at 0x7f8a35b89900>
+Test MSE: 20432.612, RMSE: 142.943
+4
+***************Load Prediction***************
+Test MSE: 0.026, RMSE: 0.160
+1
+Test MSE: 0.026, RMSE: 0.160
+2
+Test MSE: 0.004, RMSE: 0.061
+3
+Test MSE: 0.003, RMSE: 0.054
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f1c9e9cc900>
+Test MSE: 20243.496, RMSE: 142.280
+1
+<built-in method now of type object at 0x7f65190bf900>
+Test MSE: 44092.212, RMSE: 209.981
+2
+<built-in method now of type object at 0x7fae253ad900>
+Test MSE: 11486.760, RMSE: 107.176
+3
+<built-in method now of type object at 0x7f89e1695900>
+Test MSE: 29242.014, RMSE: 171.003
+4
+***************Load Prediction***************
+Test MSE: 0.320, RMSE: 0.566
+1
+Test MSE: 0.320, RMSE: 0.566
+2
+Test MSE: 0.009, RMSE: 0.097
+3
+Test MSE: 0.014, RMSE: 0.117
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fd066a7a900>
+Test MSE: 6221.772, RMSE: 78.878
+1
+<built-in method now of type object at 0x7f5419605900>
+Test MSE: 54018.476, RMSE: 232.419
+2
+<built-in method now of type object at 0x7f56b8607900>
+Test MSE: 50528.248, RMSE: 224.785
+3
+<built-in method now of type object at 0x7f088b43d900>
+Test MSE: 49199.166, RMSE: 221.809
+4
+***************Load Prediction***************
+Test MSE: 0.099, RMSE: 0.315
+1
+Test MSE: 0.099, RMSE: 0.315
+2
+Test MSE: 0.017, RMSE: 0.132
+3
+Test MSE: 0.019, RMSE: 0.138
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f1898f6d900>
+Test MSE: 17089.369, RMSE: 130.726
+1
+<built-in method now of type object at 0x7fcfd9ff0900>
+Test MSE: 45542.552, RMSE: 213.407
+2
+<built-in method now of type object at 0x7fd100bab900>
+Test MSE: 40178.919, RMSE: 200.447
+3
+<built-in method now of type object at 0x7f36b15b6900>
+Test MSE: 82728.258, RMSE: 287.625
+4
+***************Load Prediction***************
+Test MSE: 0.034, RMSE: 0.184
+1
+Test MSE: 0.034, RMSE: 0.184
+2
+Test MSE: 0.009, RMSE: 0.095
+3
+Test MSE: 0.004, RMSE: 0.060
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f9f566a8900>
+Test MSE: 90150.467, RMSE: 300.251
+1
+<built-in method now of type object at 0x7f8775877900>
+Test MSE: 73905.321, RMSE: 271.855
+2
+<built-in method now of type object at 0x7f090f418900>
+Test MSE: 41817.929, RMSE: 204.494
+3
+<built-in method now of type object at 0x7fae5307a900>
+Test MSE: 12462.076, RMSE: 111.634
+4
+***************Load Prediction***************
+Test MSE: 0.022, RMSE: 0.147
+1
+Test MSE: 0.022, RMSE: 0.147
+2
+Test MSE: 0.004, RMSE: 0.060
+3
+Test MSE: 0.013, RMSE: 0.115
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fbb0d3b0900>
+Test MSE: 55839.703, RMSE: 236.304
+1
+<built-in method now of type object at 0x7fe12b032900>
+Test MSE: 52881.245, RMSE: 229.959
+2
+<built-in method now of type object at 0x7f089f806900>
+Test MSE: 71688.761, RMSE: 267.748
+3
+<built-in method now of type object at 0x7fa700254900>
+Test MSE: 16511.501, RMSE: 128.497
+4
+***************Load Prediction***************
+Test MSE: 0.010, RMSE: 0.102
+1
+Test MSE: 0.010, RMSE: 0.102
+2
+Test MSE: 0.006, RMSE: 0.077
+3
+Test MSE: 0.019, RMSE: 0.138
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f5bb9fa6900>
+Test MSE: 57936.198, RMSE: 240.699
+1
+<built-in method now of type object at 0x7f6c2bad4900>
+Test MSE: 54834.556, RMSE: 234.168
+2
+<built-in method now of type object at 0x7f5d2adc8900>
+Test MSE: 12290.872, RMSE: 110.864
+3
+<built-in method now of type object at 0x7f9f0dab1900>
+Test MSE: 127016.909, RMSE: 356.394
+4
+***************Load Prediction***************
+Test MSE: 0.309, RMSE: 0.556
+1
+Test MSE: 0.309, RMSE: 0.556
+2
+Test MSE: 0.007, RMSE: 0.081
+3
+Test MSE: 0.009, RMSE: 0.097
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f6a141b0900>
+Test MSE: 83300.731, RMSE: 288.619
+1
+<built-in method now of type object at 0x7f149f56d900>
+Test MSE: 78529.941, RMSE: 280.232
+2
+<built-in method now of type object at 0x7f283b1b3900>
+Test MSE: 17888.802, RMSE: 133.749
+3
+<built-in method now of type object at 0x7f2716ad9900>
+Test MSE: 61491.540, RMSE: 247.975
+4
+***************Load Prediction***************
+Test MSE: 0.075, RMSE: 0.274
+1
+Test MSE: 0.075, RMSE: 0.274
+2
+Test MSE: 0.005, RMSE: 0.071
+3
+Test MSE: 0.005, RMSE: 0.069
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fe64b820900>
+Test MSE: 30234.863, RMSE: 173.882
+1
+<built-in method now of type object at 0x7f86be9c5900>
+Test MSE: 24925.763, RMSE: 157.879
+2
+<built-in method now of type object at 0x7f434d398900>
+Test MSE: 25867.253, RMSE: 160.833
+3
+<built-in method now of type object at 0x7f3b39216900>
+Test MSE: 22208.664, RMSE: 149.026
+4
+***************Load Prediction***************
+Test MSE: 0.051, RMSE: 0.226
+1
+Test MSE: 0.051, RMSE: 0.226
+2
+Test MSE: 0.022, RMSE: 0.147
+3
+Test MSE: 0.052, RMSE: 0.228
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f3a5fa3c900>
+Test MSE: 42227.870, RMSE: 205.494
+1
+<built-in method now of type object at 0x7f16e389f900>
+Test MSE: 583.755, RMSE: 24.161
+2
+<built-in method now of type object at 0x7f0b05d69900>
+Test MSE: 7531.060, RMSE: 86.782
+3
+<built-in method now of type object at 0x7fc01dcd4900>
+Test MSE: 29303.820, RMSE: 171.184
+4
+***************Load Prediction***************
+Test MSE: 0.033, RMSE: 0.181
+1
+Test MSE: 0.033, RMSE: 0.181
+2
+Test MSE: 0.024, RMSE: 0.154
+3
+Test MSE: 0.046, RMSE: 0.214
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fad12070900>
+Test MSE: 70000.452, RMSE: 264.576
+1
+<built-in method now of type object at 0x7fc6594ec900>
+Test MSE: 16333.755, RMSE: 127.804
+2
+<built-in method now of type object at 0x7fedf89c9900>
+Test MSE: 19405.198, RMSE: 139.303
+3
+<built-in method now of type object at 0x7f0d00935900>
+Test MSE: 4163.434, RMSE: 64.525
+4
+***************Load Prediction***************
+Test MSE: 0.013, RMSE: 0.113
+1
+Test MSE: 0.013, RMSE: 0.113
+2
+Test MSE: 0.028, RMSE: 0.167
+3
+Test MSE: 0.006, RMSE: 0.078
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f0836f18900>
+Test MSE: 83992.448, RMSE: 289.815
+1
+<built-in method now of type object at 0x7f2afc3c3900>
+Test MSE: 36719.284, RMSE: 191.623
+2
+<built-in method now of type object at 0x7f246cb33900>
+Test MSE: 19775.168, RMSE: 140.624
+3
+<built-in method now of type object at 0x7f5758b53900>
+Test MSE: 28095.064, RMSE: 167.616
+4
+***************Load Prediction***************
+Test MSE: 0.012, RMSE: 0.110
+1
+Test MSE: 0.012, RMSE: 0.110
+2
+Test MSE: 0.023, RMSE: 0.152
+3
+Test MSE: 0.006, RMSE: 0.080
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7f68dd56a900>
+Test MSE: 41190.939, RMSE: 202.956
+1
+<built-in method now of type object at 0x7fcef63ba900>
+Test MSE: 54027.265, RMSE: 232.438
+2
+<built-in method now of type object at 0x7f67abe07900>
+Test MSE: 36410.527, RMSE: 190.815
+3
+<built-in method now of type object at 0x7f2a83344900>
+Test MSE: 18979.084, RMSE: 137.765
+4
+***************Load Prediction***************
+Test MSE: 0.011, RMSE: 0.105
+1
+Test MSE: 0.011, RMSE: 0.105
+2
+Test MSE: 0.006, RMSE: 0.078
+3
+Test MSE: 0.026, RMSE: 0.161
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fdd94cd4900>
+Test MSE: 34601.738, RMSE: 186.015
+1
+<built-in method now of type object at 0x7f87af966900>
+Test MSE: 98685.637, RMSE: 314.143
+2
+<built-in method now of type object at 0x7f75f27c3900>
+Test MSE: 33658.618, RMSE: 183.463
+3
+<built-in method now of type object at 0x7fe22e10e900>
+Test MSE: 11895.442, RMSE: 109.066
+4
+***************Load Prediction***************
+Test MSE: 0.017, RMSE: 0.129
+1
+Test MSE: 0.017, RMSE: 0.129
+2
+Test MSE: 0.003, RMSE: 0.059
+3
+Test MSE: 0.006, RMSE: 0.076
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fb771f48900>
+Test MSE: 66760.562, RMSE: 258.381
+1
+<built-in method now of type object at 0x7efc3b25b900>
+Test MSE: 66190.929, RMSE: 257.276
+2
+<built-in method now of type object at 0x7f05f6f14900>
+Test MSE: 57603.999, RMSE: 240.008
+3
+<built-in method now of type object at 0x7fba91e27900>
+Test MSE: 17037.649, RMSE: 130.528
+4
+***************Load Prediction***************
+Test MSE: 0.020, RMSE: 0.141
+1
+Test MSE: 0.020, RMSE: 0.141
+2
+Test MSE: 0.014, RMSE: 0.120
+3
+Test MSE: 0.005, RMSE: 0.074
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fd5cf497900>
+Test MSE: 68973.648, RMSE: 262.628
+1
+<built-in method now of type object at 0x7f8f3e8a5900>
+Test MSE: 17692.632, RMSE: 133.014
+2
+<built-in method now of type object at 0x7fdd3d8e0900>
+Test MSE: 50947.168, RMSE: 225.715
+3
+<built-in method now of type object at 0x7f8960bdf900>
+Test MSE: 24697.878, RMSE: 157.156
+4
+***************Load Prediction***************
+Test MSE: 0.043, RMSE: 0.208
+1
+Test MSE: 0.043, RMSE: 0.208
+2
+Test MSE: 0.017, RMSE: 0.130
+3
+Test MSE: 0.013, RMSE: 0.115
+4
+***************Energy Prediction***************
+<built-in method now of type object at 0x7fcdf8f20900>
+Test MSE: 40285.907, RMSE: 200.713
+1
+<built-in method now of type object at 0x7fb904899900>
+Test MSE: 21706.172, RMSE: 147.330
+2
+<built-in method now of type object at 0x7fd170bac900>
+Test MSE: 47647.454, RMSE: 218.283
+3
+<built-in method now of type object at 0x7f4261485900>
+Test MSE: 40458.182, RMSE: 201.142
+4
+***************Load Prediction***************
+Test MSE: 0.026, RMSE: 0.161
+1
+Test MSE: 0.026, RMSE: 0.161
+2
+Test MSE: 0.005, RMSE: 0.071
+3
+Test MSE: 0.010, RMSE: 0.101
+4

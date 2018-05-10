@@ -1,0 +1,722 @@
+
+With Predictions 
+Day: 1 : 09:23:25
+############################################################
+DC1 - Number of jobs: 52046; Average wait time: 0.132 secs
+Total Energy consumption: 883.115 KW
+Renewable energy used: 535.394 KW
+RenPercent: 60.626%
+
+DC2 - Number of jobs: 61146; Average wait time: 0.132 secs
+Total Energy consumption: 911.196 KW
+Renewable energy used: 558.291 KW
+RenPercent: 61.270%
+
+DC3 - Number of jobs: 25151; Average wait time: 0.000 secs
+Total Energy consumption: 798.407 KW
+Renewable energy used: 433.653 KW
+RenPercent: 54.315%
+
+DC4 - Number of jobs: 61038; Average wait time: 0.164 secs
+Total Energy consumption: 911.703 KW
+Renewable energy used: 614.962 KW
+RenPercent: 67.452%
+
+Total Jobs: 199381
+############################################################
+Day: 2 : 09:24:00
+############################################################
+DC1 - Number of jobs: 77999; Average wait time: 0.268 secs
+Total Energy consumption: 964.424 KW
+Renewable energy used: 606.902 KW
+RenPercent: 62.929%
+
+DC2 - Number of jobs: 26444; Average wait time: 0.014 secs
+Total Energy consumption: 802.831 KW
+Renewable energy used: 480.250 KW
+RenPercent: 59.820%
+
+DC3 - Number of jobs: 20079; Average wait time: 0.000 secs
+Total Energy consumption: 782.900 KW
+Renewable energy used: 417.776 KW
+RenPercent: 53.363%
+
+DC4 - Number of jobs: 74859; Average wait time: 0.165 secs
+Total Energy consumption: 954.279 KW
+Renewable energy used: 644.722 KW
+RenPercent: 67.561%
+
+Total Jobs: 199381
+############################################################
+Day: 3 : 09:24:30
+############################################################
+DC1 - Number of jobs: 53418; Average wait time: 0.288 secs
+Total Energy consumption: 887.492 KW
+Renewable energy used: 555.843 KW
+RenPercent: 62.631%
+
+DC2 - Number of jobs: 28257; Average wait time: 0.000 secs
+Total Energy consumption: 808.528 KW
+Renewable energy used: 491.864 KW
+RenPercent: 60.834%
+
+DC3 - Number of jobs: 16352; Average wait time: 0.000 secs
+Total Energy consumption: 770.995 KW
+Renewable energy used: 427.479 KW
+RenPercent: 55.445%
+
+DC4 - Number of jobs: 101354; Average wait time: 0.129 secs
+Total Energy consumption: 1037.460 KW
+Renewable energy used: 615.888 KW
+RenPercent: 59.365%
+
+Total Jobs: 199381
+############################################################
+Day: 4 : 09:25:00
+############################################################
+DC1 - Number of jobs: 66149; Average wait time: 0.316 secs
+Total Energy consumption: 927.935 KW
+Renewable energy used: 596.014 KW
+RenPercent: 64.230%
+
+DC2 - Number of jobs: 24552; Average wait time: 0.015 secs
+Total Energy consumption: 796.494 KW
+Renewable energy used: 439.729 KW
+RenPercent: 55.208%
+
+DC3 - Number of jobs: 14710; Average wait time: 0.000 secs
+Total Energy consumption: 765.846 KW
+Renewable energy used: 423.953 KW
+RenPercent: 55.357%
+
+DC4 - Number of jobs: 93970; Average wait time: 0.143 secs
+Total Energy consumption: 1014.263 KW
+Renewable energy used: 636.743 KW
+RenPercent: 62.779%
+
+Total Jobs: 199381
+############################################################
+Day: 5 : 09:25:29
+############################################################
+DC1 - Number of jobs: 70956; Average wait time: 0.294 secs
+Total Energy consumption: 942.127 KW
+Renewable energy used: 592.323 KW
+RenPercent: 62.871%
+
+DC2 - Number of jobs: 24232; Average wait time: 0.016 secs
+Total Energy consumption: 795.291 KW
+Renewable energy used: 426.953 KW
+RenPercent: 53.685%
+
+DC3 - Number of jobs: 20542; Average wait time: 0.000 secs
+Total Energy consumption: 783.928 KW
+Renewable energy used: 423.664 KW
+RenPercent: 54.044%
+
+DC4 - Number of jobs: 83651; Average wait time: 0.158 secs
+Total Energy consumption: 983.128 KW
+Renewable energy used: 655.237 KW
+RenPercent: 66.648%
+
+Total Jobs: 199381
+############################################################
+Day: 6 : 09:25:58
+############################################################
+DC1 - Number of jobs: 64470; Average wait time: 0.324 secs
+Total Energy consumption: 922.026 KW
+Renewable energy used: 575.727 KW
+RenPercent: 62.441%
+
+DC2 - Number of jobs: 15692; Average wait time: 0.000 secs
+Total Energy consumption: 768.692 KW
+Renewable energy used: 449.032 KW
+RenPercent: 58.415%
+
+DC3 - Number of jobs: 17167; Average wait time: 0.000 secs
+Total Energy consumption: 774.261 KW
+Renewable energy used: 429.168 KW
+RenPercent: 55.429%
+
+DC4 - Number of jobs: 102052; Average wait time: 0.128 secs
+Total Energy consumption: 1039.496 KW
+Renewable energy used: 648.265 KW
+RenPercent: 62.363%
+
+Total Jobs: 199381
+############################################################
+Day: 7 : 09:26:28
+############################################################
+DC1 - Number of jobs: 68123; Average wait time: 0.307 secs
+Total Energy consumption: 932.896 KW
+Renewable energy used: 576.701 KW
+RenPercent: 61.818%
+
+DC2 - Number of jobs: 40405; Average wait time: 0.082 secs
+Total Energy consumption: 846.130 KW
+Renewable energy used: 522.243 KW
+RenPercent: 61.721%
+
+DC3 - Number of jobs: 14348; Average wait time: 0.000 secs
+Total Energy consumption: 765.526 KW
+Renewable energy used: 399.623 KW
+RenPercent: 52.202%
+
+DC4 - Number of jobs: 76505; Average wait time: 0.171 secs
+Total Energy consumption: 959.991 KW
+Renewable energy used: 638.401 KW
+RenPercent: 66.501%
+
+Total Jobs: 199381
+############################################################
+Day: 8 : 09:26:58
+############################################################
+DC1 - Number of jobs: 19481; Average wait time: 0.164 secs
+Total Energy consumption: 780.792 KW
+Renewable energy used: 460.146 KW
+RenPercent: 58.933%
+
+DC2 - Number of jobs: 55022; Average wait time: 0.144 secs
+Total Energy consumption: 892.553 KW
+Renewable energy used: 598.566 KW
+RenPercent: 67.062%
+
+DC3 - Number of jobs: 22268; Average wait time: 0.000 secs
+Total Energy consumption: 789.954 KW
+Renewable energy used: 445.954 KW
+RenPercent: 56.453%
+
+DC4 - Number of jobs: 102610; Average wait time: 0.121 secs
+Total Energy consumption: 1041.139 KW
+Renewable energy used: 609.860 KW
+RenPercent: 58.576%
+
+Total Jobs: 199381
+############################################################
+Day: 9 : 09:27:27
+############################################################
+DC1 - Number of jobs: 48326; Average wait time: 0.142 secs
+Total Energy consumption: 871.620 KW
+Renewable energy used: 516.943 KW
+RenPercent: 59.308%
+
+DC2 - Number of jobs: 69191; Average wait time: 0.116 secs
+Total Energy consumption: 936.371 KW
+Renewable energy used: 598.348 KW
+RenPercent: 63.901%
+
+DC3 - Number of jobs: 27321; Average wait time: 0.000 secs
+Total Energy consumption: 805.396 KW
+Renewable energy used: 437.901 KW
+RenPercent: 54.371%
+
+DC4 - Number of jobs: 54543; Average wait time: 0.205 secs
+Total Energy consumption: 891.065 KW
+Renewable energy used: 599.494 KW
+RenPercent: 67.278%
+
+Total Jobs: 199381
+############################################################
+Day: 10 : 09:27:57
+############################################################
+DC1 - Number of jobs: 37018; Average wait time: 0.082 secs
+Total Energy consumption: 835.734 KW
+Renewable energy used: 506.823 KW
+RenPercent: 60.644%
+
+DC2 - Number of jobs: 50399; Average wait time: 0.121 secs
+Total Energy consumption: 878.130 KW
+Renewable energy used: 575.013 KW
+RenPercent: 65.482%
+
+DC3 - Number of jobs: 10328; Average wait time: 0.000 secs
+Total Energy consumption: 752.197 KW
+Renewable energy used: 409.485 KW
+RenPercent: 54.439%
+
+DC4 - Number of jobs: 101636; Average wait time: 0.129 secs
+Total Energy consumption: 1038.387 KW
+Renewable energy used: 636.596 KW
+RenPercent: 61.306%
+
+Total Jobs: 199381
+############################################################
+Day: 11 : 09:28:28
+############################################################
+DC1 - Number of jobs: 23108; Average wait time: 0.000 secs
+Total Energy consumption: 792.135 KW
+Renewable energy used: 443.396 KW
+RenPercent: 55.975%
+
+DC2 - Number of jobs: 90825; Average wait time: 0.179 secs
+Total Energy consumption: 1004.437 KW
+Renewable energy used: 640.578 KW
+RenPercent: 63.775%
+
+DC3 - Number of jobs: 36143; Average wait time: 0.000 secs
+Total Energy consumption: 833.568 KW
+Renewable energy used: 473.708 KW
+RenPercent: 56.829%
+
+DC4 - Number of jobs: 49305; Average wait time: 0.188 secs
+Total Energy consumption: 874.268 KW
+Renewable energy used: 577.224 KW
+RenPercent: 66.024%
+
+Total Jobs: 199381
+############################################################
+Day: 12 : 09:28:58
+############################################################
+DC1 - Number of jobs: 41561; Average wait time: 0.108 secs
+Total Energy consumption: 851.242 KW
+Renewable energy used: 495.390 KW
+RenPercent: 58.196%
+
+DC2 - Number of jobs: 62621; Average wait time: 0.122 secs
+Total Energy consumption: 915.342 KW
+Renewable energy used: 589.360 KW
+RenPercent: 64.387%
+
+DC3 - Number of jobs: 26416; Average wait time: 0.000 secs
+Total Energy consumption: 802.912 KW
+Renewable energy used: 439.015 KW
+RenPercent: 54.678%
+
+DC4 - Number of jobs: 68783; Average wait time: 0.180 secs
+Total Energy consumption: 934.934 KW
+Renewable energy used: 602.991 KW
+RenPercent: 64.496%
+
+Total Jobs: 199381
+############################################################
+Day: 13 : 09:29:27
+############################################################
+DC1 - Number of jobs: 76542; Average wait time: 0.273 secs
+Total Energy consumption: 959.466 KW
+Renewable energy used: 609.358 KW
+RenPercent: 63.510%
+
+DC2 - Number of jobs: 32011; Average wait time: 0.012 secs
+Total Energy consumption: 819.975 KW
+Renewable energy used: 465.594 KW
+RenPercent: 56.781%
+
+DC3 - Number of jobs: 21707; Average wait time: 0.000 secs
+Total Energy consumption: 788.068 KW
+Renewable energy used: 427.955 KW
+RenPercent: 54.304%
+
+DC4 - Number of jobs: 69121; Average wait time: 0.181 secs
+Total Energy consumption: 936.952 KW
+Renewable energy used: 589.464 KW
+RenPercent: 62.913%
+
+Total Jobs: 199381
+############################################################
+Day: 14 : 09:29:57
+############################################################
+DC1 - Number of jobs: 63715; Average wait time: 0.183 secs
+Total Energy consumption: 919.533 KW
+Renewable energy used: 566.072 KW
+RenPercent: 61.561%
+
+DC2 - Number of jobs: 42537; Average wait time: 0.067 secs
+Total Energy consumption: 852.409 KW
+Renewable energy used: 527.154 KW
+RenPercent: 61.843%
+
+DC3 - Number of jobs: 27557; Average wait time: 0.000 secs
+Total Energy consumption: 807.604 KW
+Renewable energy used: 440.969 KW
+RenPercent: 54.602%
+
+DC4 - Number of jobs: 65572; Average wait time: 0.171 secs
+Total Energy consumption: 924.843 KW
+Renewable energy used: 597.859 KW
+RenPercent: 64.644%
+
+Total Jobs: 199381
+############################################################
+Day: 15 : 09:30:27
+############################################################
+DC1 - Number of jobs: 54541; Average wait time: 0.265 secs
+Total Energy consumption: 890.882 KW
+Renewable energy used: 557.552 KW
+RenPercent: 62.584%
+
+DC2 - Number of jobs: 20336; Average wait time: 0.000 secs
+Total Energy consumption: 783.356 KW
+Renewable energy used: 478.746 KW
+RenPercent: 61.115%
+
+DC3 - Number of jobs: 23287; Average wait time: 0.000 secs
+Total Energy consumption: 793.327 KW
+Renewable energy used: 447.038 KW
+RenPercent: 56.350%
+
+DC4 - Number of jobs: 101217; Average wait time: 0.123 secs
+Total Energy consumption: 1036.848 KW
+Renewable energy used: 617.313 KW
+RenPercent: 59.537%
+
+Total Jobs: 199381
+############################################################
+Day: 16 : 09:30:57
+############################################################
+DC1 - Number of jobs: 57269; Average wait time: 0.224 secs
+Total Energy consumption: 899.586 KW
+Renewable energy used: 552.128 KW
+RenPercent: 61.376%
+
+DC2 - Number of jobs: 52102; Average wait time: 0.139 secs
+Total Energy consumption: 882.646 KW
+Renewable energy used: 492.632 KW
+RenPercent: 55.813%
+
+DC3 - Number of jobs: 23250; Average wait time: 0.000 secs
+Total Energy consumption: 793.202 KW
+Renewable energy used: 433.653 KW
+RenPercent: 54.671%
+
+DC4 - Number of jobs: 66760; Average wait time: 0.185 secs
+Total Energy consumption: 929.032 KW
+Renewable energy used: 616.858 KW
+RenPercent: 66.398%
+
+Total Jobs: 199381
+############################################################
+Day: 17 : 09:31:27
+############################################################
+DC1 - Number of jobs: 66283; Average wait time: 0.315 secs
+Total Energy consumption: 927.948 KW
+Renewable energy used: 592.652 KW
+RenPercent: 63.867%
+
+DC2 - Number of jobs: 17126; Average wait time: 0.000 secs
+Total Energy consumption: 773.306 KW
+Renewable energy used: 456.100 KW
+RenPercent: 58.981%
+
+DC3 - Number of jobs: 10605; Average wait time: 0.000 secs
+Total Energy consumption: 753.112 KW
+Renewable energy used: 406.759 KW
+RenPercent: 54.010%
+
+DC4 - Number of jobs: 105367; Average wait time: 0.124 secs
+Total Energy consumption: 1050.151 KW
+Renewable energy used: 642.130 KW
+RenPercent: 61.146%
+
+Total Jobs: 199381
+############################################################
+Day: 18 : 09:31:56
+############################################################
+DC1 - Number of jobs: 67420; Average wait time: 0.228 secs
+Total Energy consumption: 930.902 KW
+Renewable energy used: 588.605 KW
+RenPercent: 63.230%
+
+DC2 - Number of jobs: 34125; Average wait time: 0.037 secs
+Total Energy consumption: 826.082 KW
+Renewable energy used: 504.379 KW
+RenPercent: 61.057%
+
+DC3 - Number of jobs: 27452; Average wait time: 0.000 secs
+Total Energy consumption: 806.548 KW
+Renewable energy used: 445.815 KW
+RenPercent: 55.274%
+
+DC4 - Number of jobs: 70384; Average wait time: 0.161 secs
+Total Energy consumption: 940.880 KW
+Renewable energy used: 594.111 KW
+RenPercent: 63.144%
+
+Total Jobs: 199381
+############################################################
+Day: 19 : 09:32:27
+############################################################
+DC1 - Number of jobs: 46172; Average wait time: 0.278 secs
+Total Energy consumption: 864.730 KW
+Renewable energy used: 523.142 KW
+RenPercent: 60.498%
+
+DC2 - Number of jobs: 43667; Average wait time: 0.139 secs
+Total Energy consumption: 856.811 KW
+Renewable energy used: 544.177 KW
+RenPercent: 63.512%
+
+DC3 - Number of jobs: 21888; Average wait time: 0.000 secs
+Total Energy consumption: 788.764 KW
+Renewable energy used: 442.717 KW
+RenPercent: 56.128%
+
+DC4 - Number of jobs: 87654; Average wait time: 0.128 secs
+Total Energy consumption: 994.184 KW
+Renewable energy used: 594.511 KW
+RenPercent: 59.799%
+
+Total Jobs: 199381
+############################################################
+Day: 20 : 09:32:56
+############################################################
+DC1 - Number of jobs: 58843; Average wait time: 0.246 secs
+Total Energy consumption: 904.043 KW
+Renewable energy used: 544.727 KW
+RenPercent: 60.255%
+
+DC2 - Number of jobs: 47428; Average wait time: 0.026 secs
+Total Energy consumption: 868.377 KW
+Renewable energy used: 541.258 KW
+RenPercent: 62.330%
+
+DC3 - Number of jobs: 29160; Average wait time: 0.000 secs
+Total Energy consumption: 811.283 KW
+Renewable energy used: 446.186 KW
+RenPercent: 54.998%
+
+DC4 - Number of jobs: 63950; Average wait time: 0.193 secs
+Total Energy consumption: 920.744 KW
+Renewable energy used: 599.790 KW
+RenPercent: 65.142%
+
+Total Jobs: 199381
+############################################################
+Day: 21 : 09:33:27
+############################################################
+DC1 - Number of jobs: 25131; Average wait time: 0.031 secs
+Total Energy consumption: 799.083 KW
+Renewable energy used: 464.911 KW
+RenPercent: 58.181%
+
+DC2 - Number of jobs: 52633; Average wait time: 0.187 secs
+Total Energy consumption: 884.728 KW
+Renewable energy used: 574.248 KW
+RenPercent: 64.907%
+
+DC3 - Number of jobs: 16251; Average wait time: 0.000 secs
+Total Energy consumption: 770.725 KW
+Renewable energy used: 424.695 KW
+RenPercent: 55.103%
+
+DC4 - Number of jobs: 105366; Average wait time: 0.124 secs
+Total Energy consumption: 1049.930 KW
+Renewable energy used: 626.307 KW
+RenPercent: 59.652%
+
+Total Jobs: 199381
+############################################################
+Day: 22 : 09:33:56
+############################################################
+DC1 - Number of jobs: 41787; Average wait time: 0.142 secs
+Total Energy consumption: 851.306 KW
+Renewable energy used: 513.688 KW
+RenPercent: 60.341%
+
+DC2 - Number of jobs: 43719; Average wait time: 0.100 secs
+Total Energy consumption: 856.625 KW
+Renewable energy used: 548.305 KW
+RenPercent: 64.008%
+
+DC3 - Number of jobs: 19167; Average wait time: 0.000 secs
+Total Energy consumption: 779.979 KW
+Renewable energy used: 433.904 KW
+RenPercent: 55.630%
+
+DC4 - Number of jobs: 94708; Average wait time: 0.138 secs
+Total Energy consumption: 1016.527 KW
+Renewable energy used: 614.232 KW
+RenPercent: 60.425%
+
+Total Jobs: 199381
+############################################################
+Day: 23 : 09:34:26
+############################################################
+DC1 - Number of jobs: 23994; Average wait time: 0.000 secs
+Total Energy consumption: 795.148 KW
+Renewable energy used: 432.077 KW
+RenPercent: 54.339%
+
+DC2 - Number of jobs: 81930; Average wait time: 0.157 secs
+Total Energy consumption: 976.590 KW
+Renewable energy used: 645.907 KW
+RenPercent: 66.139%
+
+DC3 - Number of jobs: 32755; Average wait time: 0.000 secs
+Total Energy consumption: 822.511 KW
+Renewable energy used: 457.925 KW
+RenPercent: 55.674%
+
+DC4 - Number of jobs: 60702; Average wait time: 0.184 secs
+Total Energy consumption: 910.149 KW
+Renewable energy used: 597.621 KW
+RenPercent: 65.662%
+
+Total Jobs: 199381
+############################################################
+Day: 24 : 09:34:55
+############################################################
+DC1 - Number of jobs: 27666; Average wait time: 0.026 secs
+Total Energy consumption: 806.719 KW
+Renewable energy used: 446.040 KW
+RenPercent: 55.291%
+
+DC2 - Number of jobs: 73716; Average wait time: 0.174 secs
+Total Energy consumption: 950.780 KW
+Renewable energy used: 626.016 KW
+RenPercent: 65.842%
+
+DC3 - Number of jobs: 21929; Average wait time: 0.000 secs
+Total Energy consumption: 788.836 KW
+Renewable energy used: 428.222 KW
+RenPercent: 54.285%
+
+DC4 - Number of jobs: 76070; Average wait time: 0.172 secs
+Total Energy consumption: 958.120 KW
+Renewable energy used: 634.118 KW
+RenPercent: 66.184%
+
+Total Jobs: 199381
+############################################################
+Day: 25 : 09:35:24
+############################################################
+DC1 - Number of jobs: 11882; Average wait time: 0.000 secs
+Total Energy consumption: 757.166 KW
+Renewable energy used: 421.347 KW
+RenPercent: 55.648%
+
+DC2 - Number of jobs: 74294; Average wait time: 0.173 secs
+Total Energy consumption: 953.046 KW
+Renewable energy used: 644.215 KW
+RenPercent: 67.595%
+
+DC3 - Number of jobs: 18314; Average wait time: 0.000 secs
+Total Energy consumption: 777.235 KW
+Renewable energy used: 434.790 KW
+RenPercent: 55.941%
+
+DC4 - Number of jobs: 94891; Average wait time: 0.141 secs
+Total Energy consumption: 1017.068 KW
+Renewable energy used: 620.608 KW
+RenPercent: 61.019%
+
+Total Jobs: 199381
+############################################################
+Day: 26 : 09:35:53
+############################################################
+DC1 - Number of jobs: 37047; Average wait time: 0.021 secs
+Total Energy consumption: 835.261 KW
+Renewable energy used: 478.149 KW
+RenPercent: 57.245%
+
+DC2 - Number of jobs: 70621; Average wait time: 0.146 secs
+Total Energy consumption: 940.774 KW
+Renewable energy used: 612.004 KW
+RenPercent: 65.053%
+
+DC3 - Number of jobs: 31183; Average wait time: 0.000 secs
+Total Energy consumption: 818.253 KW
+Renewable energy used: 452.300 KW
+RenPercent: 55.276%
+
+DC4 - Number of jobs: 60530; Average wait time: 0.185 secs
+Total Energy consumption: 910.106 KW
+Renewable energy used: 597.204 KW
+RenPercent: 65.619%
+
+Total Jobs: 199381
+############################################################
+Day: 27 : 09:36:23
+############################################################
+DC1 - Number of jobs: 36791; Average wait time: 0.075 secs
+Total Energy consumption: 835.139 KW
+Renewable energy used: 482.758 KW
+RenPercent: 57.806%
+
+DC2 - Number of jobs: 62466; Average wait time: 0.165 secs
+Total Energy consumption: 914.854 KW
+Renewable energy used: 587.361 KW
+RenPercent: 64.203%
+
+DC3 - Number of jobs: 20783; Average wait time: 0.000 secs
+Total Energy consumption: 784.687 KW
+Renewable energy used: 425.380 KW
+RenPercent: 54.210%
+
+DC4 - Number of jobs: 79341; Average wait time: 0.165 secs
+Total Energy consumption: 969.747 KW
+Renewable energy used: 628.276 KW
+RenPercent: 64.788%
+
+Total Jobs: 199381
+############################################################
+Day: 28 : 09:36:53
+############################################################
+DC1 - Number of jobs: 72503; Average wait time: 0.288 secs
+Total Energy consumption: 947.041 KW
+Renewable energy used: 580.306 KW
+RenPercent: 61.276%
+
+DC2 - Number of jobs: 31332; Average wait time: 0.012 secs
+Total Energy consumption: 817.179 KW
+Renewable energy used: 485.401 KW
+RenPercent: 59.400%
+
+DC3 - Number of jobs: 19085; Average wait time: 0.000 secs
+Total Energy consumption: 780.368 KW
+Renewable energy used: 414.316 KW
+RenPercent: 53.092%
+
+DC4 - Number of jobs: 76461; Average wait time: 0.171 secs
+Total Energy consumption: 959.897 KW
+Renewable energy used: 628.265 KW
+RenPercent: 65.451%
+
+Total Jobs: 199381
+############################################################
+Day: 29 : 09:37:22
+############################################################
+DC1 - Number of jobs: 22763; Average wait time: 0.000 secs
+Total Energy consumption: 790.814 KW
+Renewable energy used: 423.966 KW
+RenPercent: 53.611%
+
+DC2 - Number of jobs: 87200; Average wait time: 0.153 secs
+Total Energy consumption: 992.994 KW
+Renewable energy used: 663.804 KW
+RenPercent: 66.849%
+
+DC3 - Number of jobs: 22264; Average wait time: 0.000 secs
+Total Energy consumption: 789.664 KW
+Renewable energy used: 424.337 KW
+RenPercent: 53.736%
+
+DC4 - Number of jobs: 67154; Average wait time: 0.184 secs
+Total Energy consumption: 930.989 KW
+Renewable energy used: 604.433 KW
+RenPercent: 64.924%
+
+Total Jobs: 199381
+############################################################
+Day: 30 : 09:37:51
+############################################################
+DC1 - Number of jobs: 33291; Average wait time: 0.206 secs
+Total Energy consumption: 824.406 KW
+Renewable energy used: 483.334 KW
+RenPercent: 58.628%
+
+DC2 - Number of jobs: 56211; Average wait time: 0.177 secs
+Total Energy consumption: 895.434 KW
+Renewable energy used: 582.710 KW
+RenPercent: 65.076%
+
+DC3 - Number of jobs: 14886; Average wait time: 0.000 secs
+Total Energy consumption: 767.298 KW
+Renewable energy used: 420.440 KW
+RenPercent: 54.795%
+
+DC4 - Number of jobs: 94993; Average wait time: 0.131 secs
+Total Energy consumption: 1017.365 KW
+Renewable energy used: 578.935 KW
+RenPercent: 56.905%
+
+Total Jobs: 199381
+############################################################
